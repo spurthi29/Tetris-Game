@@ -16,4 +16,6 @@ Tetris is a classic puzzle game where players manipulate falling blocks (tetromi
 
 ## Implementation
 [Practical Implementation](https://github.com/user-attachments/assets/ecde2cb6-b10f-4cbd-aa14-4417f253fd0c)
-<img width="310" alt="Screenshot 2024-10-05 at 5 26 30 PM" src="https://github.com/user-attachments/assets/81ef79b2-659e-4942-8a4e-b19052d2aaac">
+
+
+[Screenshot](<img width="310" alt="Screenshot 2024-10-05 at 5 26 30 PM" src="https://github.com/user-attachments/assets/81ef79b2-659e-4942-8a4e-b19052d2aaac">)
