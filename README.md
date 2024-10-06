@@ -16,8 +16,3 @@ Tetris is a classic puzzle game where players manipulate falling blocks (tetromi
 
 ## Implementation
 [Practical Implementation]()
-
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/tetris-game.git
